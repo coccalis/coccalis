@@ -1,13 +1,13 @@
-<div align="center" width="50">
-    <img alt="" src="./assets/oh hi there.png" width="300"/>
-</div>
+
+
+![bg_final](https://github.com/user-attachments/assets/89f2b061-1dcb-4efe-96e6-61ad86f371c0)
 
 ---
 ## :moyai: About Me :
 - :mortar_board: I am an undergraduate student at the University of West Attica, pursuing a degree in Informatics and Computer Engineering.
 - 💻 I'm a Junior React Developer, specializing in React.js and front-end development.
-- 🌱 Currently, I’m learning and expanding my skills in modern web technologies while seeking opportunities to grow as a developer.
 - 🎨 Skilled in UI/UX design and enjoy building modern, user-friendly websites and applications.
+- 🌱 Currently, I’m learning and expanding my skills in modern web technologies while seeking opportunities to grow as a developer.
 - ⌚ In my free time, i desing websites and build new projects.
 ---
 
@@ -23,39 +23,56 @@
 
 ## 🛠️ Technologies & Tools :
 
-<table> <tr> <td>
+<table align="center"> <tr> <td>
 Front-End Development:
 Languages: <br>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,ts" /> </a>
+<a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts" /> </a>
 
 Libraries/Frameworks: <br>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,redux" /> </a>
+<a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=react,redux,tailwind,bootstrap" /> </a>
 
 Design Tools: <br>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=figma,ps,pr" /> </a>
+<a href="https://go-skill-icons.vercel.app/"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,pr" /> </a>
 
 </td> <td>
 Back-End & Other Tools:
 Programming Languages: <br>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs" /> </a>
+<a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,nodejs" /> </a>
 
 Databases: <br>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=postgres,mysql" /> </a>
+<a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql" /> </a>
 
 CMS: <br>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=wordpress" /> </a>
+<a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=wordpress" /> </a>
 
 </td> </tr>
 </table>
 
-Other Skills: <br>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,cpp,py,php,matlab" /></a>
-
-Tools: <br>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=vscode,androidstudio" /></a>
+<div align="center">
+    Other Skills: <br>
+    <a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,php,matlab,kotlin,jetpackcompose,git" /></a><br>
+    Tools: <br>
+    <a href="https://skillicons.dev"> <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,androidstudio,idea" /></a>
+</div>
 
 ---
 ## 📈 My Github stats:
+<div align="center">
+    <p><img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=coccalis&count_private=true&theme=tokyonight&layout=donut&hide_border=true&bg_color=0C1116" alt="SanskarJaiswal" />
+    </p>
+</div>
+<div align="center">
+    <p>
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=coccalis&show_icons=true&locale=en&theme=tokyonight&bg_color=0C1116&repo=convoychat&hide_border=true" alt="adam-pw" />
+    </p>
+    <br>
+    <p>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=coccalis&theme=tokyonight-duo&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
+    </p>
+</div>
+
+
+
 
 
 
