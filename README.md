@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋</h1>
 
-![bg_final](https://github.com/user-attachments/assets/89f2b061-1dcb-4efe-96e6-61ad86f371c0)
+![bg_final](https://github.com/user-attachments/assets/8ffefd5c-1ae4-4cce-8834-c71d29a4ba8f)
 
 ---
 ## :moyai: About Me :
