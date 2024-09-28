@@ -14,44 +14,51 @@
 
 
 ## :coffee: Connect with me :
-- email:
-- linkedin: 
-- website:
-- cv :
+- **Email**:
+- **Linkedin**: 
+- **Website**:
+- **CV** :
 ---
 
 
 ## 🛠️ Technologies & Tools :
 
 <table align="center"> <tr> <td>
-Front-End Development:
-Languages: <br>
+    
+**Front-End Development**: <br>
+    
+**Languages**: <br>
 <a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts" /> </a>
 
-Libraries/Frameworks: <br>
+**Libraries/Frameworks**: <br>
 <a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=react,redux,tailwind,bootstrap" /> </a>
 
-Design Tools: <br>
+**Design Tools**: <br>
 <a href="https://go-skill-icons.vercel.app/"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,pr" /> </a>
 
-</td> <td>
-Back-End & Other Tools:
-Programming Languages: <br>
+</td> <td> 
+    
+**Back-End & Other Tools**:  <br>
+
+**Programming Languages**: <br>
 <a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,nodejs" /> </a>
 
-Databases: <br>
+**Databases**: <br>
 <a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql" /> </a>
 
-CMS: <br>
+**CMS**: <br>
 <a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=wordpress" /> </a>
 
 </td> </tr>
 </table>
 
-<div align="center">
-    Other Skills: <br>
-    <a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,php,matlab,kotlin,jetpackcompose,git" /></a><br>
-    Tools: <br>
+<div align="center"> 
+    <strong>Other Skills:</strong>
+    <br>
+    <a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,php,matlab,kotlin,jetpackcompose,git" /></a>
+    <br>
+    <strong>Tools:</strong>
+    <br>
     <a href="https://skillicons.dev"> <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,androidstudio,idea" /></a>
 </div>
 
