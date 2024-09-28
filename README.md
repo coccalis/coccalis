@@ -52,7 +52,7 @@ Other Skills: <br>
 <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,cpp,py,php,matlab" /></a>
 
 Tools: <br>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=vscode,git,androidstudio" /></a>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=vscode,androidstudio" /></a>
 
 ---
 ## 📈 My Github stats:
