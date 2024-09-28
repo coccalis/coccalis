@@ -1,5 +1,5 @@
 <div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+    <img alt="" src="./assets/oh hi there.png" width="300"/>
 </div>
 
 ---
@@ -20,22 +20,33 @@
 - cv :
 ---
 
-## 🛠️ Technologies & Tools :
-Front-End Development:<br>
-- Languages: <br>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,ts" /></a>
-- Libraries/Frameworks: <br>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,redux " /></a>
-- Design Tools: <br>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=figma,ps,pr" /></a>
 
-Back-End & Other Tools:<br>
-- Programming Languages: <br>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs" /></a>
-- Databases: <br>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=postgres,mysql" /></a>
-- CMS: <br>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=wordpress" /></a>
+## 🛠️ Technologies & Tools :
+
+<table> <tr> <td>
+Front-End Development:
+Languages: <br>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,ts" /> </a>
+
+Libraries/Frameworks: <br>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,redux" /> </a>
+
+Design Tools: <br>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=figma,ps,pr" /> </a>
+
+</td> <td>
+Back-End & Other Tools:
+Programming Languages: <br>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs" /> </a>
+
+Databases: <br>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=postgres,mysql" /> </a>
+
+CMS: <br>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=wordpress" /> </a>
+
+</td> </tr>
+</table>
 
 Other Skills: <br>
 <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,cpp,py,php,matlab" /></a>
