@@ -31,7 +31,7 @@
 <a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts" /> </a>
 
 **Libraries/Frameworks**: <br>
-<a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=react,redux,tailwind,bootstrap" /> </a>
+<a href="https://go-skill-icons.vercel.app/"> <img src="https://go-skill-icons.vercel.app/api/icons?i=react,redux,reactnative,tailwind,bootstrap" /> </a>
 
 **Design Tools**: <br>
 <a href="https://go-skill-icons.vercel.app/"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,pr" /> </a>
