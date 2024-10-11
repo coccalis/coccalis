@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋</h1>
 
-![bg_final](https://github.com/user-attachments/assets/8ffefd5c-1ae4-4cce-8834-c71d29a4ba8f)
+![home_pixel-night](https://github.com/user-attachments/assets/0ffb4ae1-8842-491b-a500-974a4983c590)
 
 ---
 ## :moyai: About Me :
@@ -16,7 +16,8 @@
 ## :coffee: Connect with me :
 - **Email**: kokkalischrisbs@gmail.com 
 - **Website**: https://coccalis.github.io/Portfolio/
-- **CV** :
+- **CV** : [Chris Kokkalis resume.pdf](https://github.com/user-attachments/files/17346105/Chris.Kokkalis.resume.pdf)
+
 ---
 
 
