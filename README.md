@@ -14,9 +14,8 @@
 
 
 ## :coffee: Connect with me :
-- **Email**:
-- **Linkedin**: 
-- **Website**:
+- **Email**: kokkalischrisbs@gmail.com 
+- **Website**: https://coccalis.github.io/Portfolio/
 - **CV** :
 ---
 
