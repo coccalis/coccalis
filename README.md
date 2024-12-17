@@ -16,7 +16,8 @@
 ## :coffee: Connect with me :
 - **Email**: kokkalischrisbs@gmail.com 
 - **Website**: https://coccalis.github.io/Portfolio/
-- **CV** : [Chris Kokkalis resume.pdf](https://github.com/user-attachments/files/17346105/Chris.Kokkalis.resume.pdf)
+- **CV** : [Chris_Kokkalis_CV.pdf](https://github.com/user-attachments/files/18170569/Chris_Kokkalis_CV.pdf)
+
 
 ---
 
